@@ -1,0 +1,1 @@
+web: gunicorn empresas_API.wsgi --log-file -
